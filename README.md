@@ -15,7 +15,7 @@ Models included:
  * 1.0.0.0 - Initial version for accompanying release with submission.
 
 ### Referenced Works (F/OSS software)
-The Small N Stats Discounting Model Selector uses a number of open source projects to work properly:
+The Small N Stats Discounting Model Selector Simulation Study uses a number of open source projects to work properly:
 * R Statistical Package - GPLv2 Licensed. Copyright (C) 2000-16. The R Core Team [Site](https://www.r-project.org/)
 * Discounting Model Selector - GPLv2 Licensed. Copyright (c) 2016 Shawn Gilroy. [Github](http://www.github.com/miyamot0) 
 
@@ -46,4 +46,4 @@ Want to contribute? Great! Emails or PM's are welcome.
 
 ### License
 ----
-Discounting Model Selector - Copyright 2016, Chris Franck. GPL-Version 2
+Discounting Model Selector Simulation Study - Copyright 2016, Chris Franck. GPL-Version 2
