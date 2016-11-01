@@ -19,7 +19,9 @@
 ####Generates simulated data used in the study
 ####Workspace contains lists that store simulated data, true values of parameters
 
-source('C:/Dropbox/Bayesian Model Selector Resubmit/Simulation files to host publicly/simulator.R')
+## Simulator function
+source('simulator.R')
+
 library(mvtnorm)
 library(reshape)
 
